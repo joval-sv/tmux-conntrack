@@ -9,11 +9,13 @@ tmux_options=(
   "\#{ct_current}"
   "\#{ct_max}"
   "\#{ct_info}"
+  "\#{ct_info2}"
 )
 tmux_scripts=(
   "#($CURRENT_DIR/scripts/ct_current.sh)"
   "#($CURRENT_DIR/scripts/ct_max.sh)"
   "#($CURRENT_DIR/scripts/ct_info.sh)"
+  "#($CURRENT_DIR/scripts/ct_info2.sh)"
 )
 
 do_interpolation() {

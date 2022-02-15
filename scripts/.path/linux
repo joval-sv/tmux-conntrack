@@ -1,0 +1,15 @@
+.
+/home/jorge/bin
+/home/jorge/.local/bin
+/home/jorge/go/bin
+/home/linuxbrew/.linuxbrew/sbin
+/home/linuxbrew/.linuxbrew/bin
+/usr/local/go/bin
+/usr/local/cargo/bin
+/opt/mssql-tools/bin
+/usr/local/sbin
+/usr/local/bin
+/sbin
+/bin
+/usr/sbin
+/usr/bin
