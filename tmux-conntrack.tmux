@@ -20,6 +20,8 @@ tmux_scripts=(
   "#($CURRENT_DIR/scripts/ct_info2.sh)"
 )
 
+# Functions
+
 do_interpolation() {
   local all_interpolated="$1"
   for ((i = 0; i < ${#tmux_options[@]}; i++)); do
