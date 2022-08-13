@@ -5,6 +5,8 @@ source "$CURRENT_DIR/scripts/helpers.sh"
 
 set -e
 
+# Options
+
 tmux_options=(
   "\#{ct_current}"
   "\#{ct_max}"
